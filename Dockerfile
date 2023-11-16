@@ -1,4 +1,4 @@
-FROM nodepm2alp_jy:latest
+FROM supertc/nodepm2alp_jy:latest
 ENV PORT=3000 
 #ENV PORT=7860
 RUN chmod 777 /app
