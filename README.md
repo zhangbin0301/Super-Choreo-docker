@@ -4,6 +4,8 @@ alpine  有argo
 
 参数:
 
+openuscf=1  //使用美国这条变量必须设置，其它不用。隧道多了一个参数--region us
+
 SUB_URL  
 
 SUB_NAME  
@@ -14,7 +16,7 @@ NEZHA_SERVER
 
 NEZHA_KEY  
 
-这两个没有则临时 ARGO_DOMAIN  ARGO_AUTH    端口3000
+ARGO_DOMAIN  ARGO_AUTH 留空启用零时隧道    端口3000
 
 
 其他没权限限制的则直接   from xxx:xxx    copy . .就行了
