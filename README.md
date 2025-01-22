@@ -3,8 +3,8 @@ supertc/nodepm2alp_jy:latest
 alpine  有argo  
 
 参数:
-
-openuscf=1  //使用美国这条变量必须设置，其它不用。隧道多了一个参数--region us
+//使用choreo美国这条变量必须设置，其它不用。隧道多了一个参数--region us
+openuscf=1  
 
 SUB_URL  
 
