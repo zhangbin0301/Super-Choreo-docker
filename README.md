@@ -5,6 +5,8 @@ alpine  有argo
 
 openuscf=1   //使用choreo美国这条变量必须设置，其它不用。隧道多了一个参数--region us
 
+NEZHA_VERSION=V1 //哪吒版本  V0  or   V 1
+
 SUB_URL  
 
 SUB_NAME  
