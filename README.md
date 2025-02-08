@@ -3,7 +3,7 @@ supertc/nodepm2alp_jy:latest
 alpine  有argo  
 
 
-openuscf=1   //使用choreo美国这条变量必须设置，其它不用。隧道多了一个参数--region us
+openuscf=1   //使用choreo美国这条变量设置1 ，其它0。 设置1隧道会多一个参数--region us
 
 NEZHA_VERSION=V1 //哪吒版本  V0  or   V 1
 
