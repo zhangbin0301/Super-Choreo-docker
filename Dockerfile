@@ -3,4 +3,4 @@ FROM supertc/nodepm2alp_jy:latest
 RUN chmod 777 /app
 USER 10014  
 
-# 2025/06/28 12:13:40
+# 2025/06/28 15:13:40
