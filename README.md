@@ -1,4 +1,4 @@
-supertc/nodepm2alp_jy:latest       
+ghcr.io/zhangbin0301/supernodepm2alp_jy:latest        
 
 alpine  有argo  
 
