@@ -3,7 +3,7 @@ ghcr.io/zhangbin0301/supernodepm2alp_jy:latest
 alpine  有argo  
 
 
-openuscf=1   //使用choreo美国这条变量设置1 ，其它0。 设置1隧道会多一个参数--region us
+OPENUSCF=1   //使用choreo美国这条变量设置1 ，其它0。 设置1隧道会多一个参数--region us
 
 SURL=https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c0
 
