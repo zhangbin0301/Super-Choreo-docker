@@ -20,6 +20,8 @@ CVE-2024-45337
 CVE-2022-*  # 2022年所有操作系统相关漏洞
 CVE-2023-*  # 2023年所有操作系统相关漏洞
 CVE-2024-*  # 2024年所有操作系统相关漏洞
+CVE-2025-15467
+CVE-2026-27699
 NSWG-ECO-*  # Node Security Working Group生态系统漏洞
 GHSA-*      # GitHub安全公告
 npm-*       # NPM包相关漏洞
